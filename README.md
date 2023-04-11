@@ -4,13 +4,10 @@ this extension saves URL of current website &amp; helps sales team to generate l
 #Techstack HTML CSS JS
 
 #Functionality:
-1) app renders meals from AP1 based on relevant search 
-2) meals/data received are rendered on page as cards 
-3) these cards can be added in favourite section of app
-4) each card has a functionality of view_details & add to favourite section
-5) cards in favourite section have option of view details & removed
-6) local storage used
-
+1) save input, saves text/link in textbar to app
+2) save tab, saves current tab url to app
+3) delete all, deletes all links on app
+4) onclicking saved link, user is redirected to saved link page
   
  #How to run App:
  1) download & extract in folder
